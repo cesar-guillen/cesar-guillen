@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a computer science graduate currently enrolled in a cybersecurity master program in Madrid. I am passionate about pentesting and CTFs.
+I am a computer science graduate, currently enrolled in a cybersecurity master's program in Madrid. I am passionate about pentesting and CTFs.
 
 [![HTB_profile](https://www.hackthebox.com/badge/image/2059306)](https://app.hackthebox.com/profile/2059306)
 
