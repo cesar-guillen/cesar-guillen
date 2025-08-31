@@ -13,13 +13,14 @@ I am a computer science graduate, currently enrolled in a cybersecurity master's
 - 🔒 A Local Password Manager
 - 📁 A Secure File Transfer Program for IoT Devices
 - 🐴 A Knights Tour Visualizer
-- 👿 A Discord Bot
+- 📌 Plugins for Chirpy Jekyll Theme 
 - 💻 Implementing Simple Linux utilities (malloc, filesystem)  
 
 #### 🛠️ These are the technologies and tools I commonly work with:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,3 +37,6 @@ I am a computer science graduate, currently enrolled in a cybersecurity master's
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&style=for-the-badge&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black)
+![Jenkyll](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&style=for-the-badge&logoColor=white)
+![AES](https://img.shields.io/badge/AES-FF8C00?style=for-the-badge&logoColor=white)
+![HMAC](https://img.shields.io/badge/HMAC-6A5ACD?style=for-the-badge&logoColor=white)
