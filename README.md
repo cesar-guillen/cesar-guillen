@@ -17,7 +17,8 @@ I am a computer science graduate, currently enrolled in a cybersecurity master's
 - 💻 Implementing Simple Linux utilities (malloc, filesystem)  
 
 #### 📜 I have obtained the following certifications:
-- 🕵️ Certified Penetration Testing Specialist (CPTS) 
+- 🕵️ Certified Penetration Testing Specialist (CPTS)
+- 📋 CompTIA Security+
 
 #### 🛠️ These are the technologies and tools I commonly work with:
 
