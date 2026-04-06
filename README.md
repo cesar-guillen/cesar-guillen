@@ -19,6 +19,7 @@ I am a computer science graduate, currently enrolled in a cybersecurity master's
 #### 📜 I have obtained the following certifications:
 - 🕵️ Certified Penetration Testing Specialist (CPTS)
 - 📋 CompTIA Security+
+- 🕵️ Offsec OSCP+
 
 #### 🛠️ These are the technologies and tools I commonly work with:
 
